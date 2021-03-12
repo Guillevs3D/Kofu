@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: be437c6e4db73714a869ac859838f84f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7587630507672157593
+    second: WalkPistol_0
+  - first:
+      213: -4924975470870088888
+    second: WalkPistol_1
+  - first:
+      213: 1419335004420215812
+    second: WalkPistol_2
+  - first:
+      213: 2857286925860253152
+    second: WalkPistol_3
+  - first:
+      213: -9127121202439857449
+    second: WalkPistol_4
+  - first:
+      213: 2654183066869348841
+    second: WalkPistol_5
+  - first:
+      213: -6272713131991629374
+    second: WalkPistol_6
+  - first:
+      213: 2527652127563402804
+    second: WalkPistol_7
+  - first:
+      213: -1918020281695912070
+    second: WalkPistol_8
+  - first:
+      213: 4131924563453705868
+    second: WalkPistol_9
+  - first:
+      213: 1285199689365113786
+    second: WalkPistol_10
+  - first:
+      213: -2984058374154483996
+    second: WalkPistol_11
+  - first:
+      213: -4381270221744666666
+    second: WalkPistol_12
+  - first:
+      213: 3299052556401907657
+    second: WalkPistol_13
+  - first:
+      213: -6842149376765762172
+    second: WalkPistol_14
+  - first:
+      213: 5158979755602353667
+    second: WalkPistol_15
+  - first:
+      213: 169410392226465476
+    second: WalkPistol_0
+  - first:
+      213: 2460873580512486254
+    second: WalkPistol_1
+  - first:
+      213: 7025508823682283965
+    second: WalkPistol_2
+  - first:
+      213: 560492336827132205
+    second: WalkPistol_3
+  - first:
+      213: -658032685768773427
+    second: WalkPistol_4
+  - first:
+      213: -6046111360680124438
+    second: WalkPistol_5
+  - first:
+      213: 1603460312067938952
+    second: WalkPistol_6
+  - first:
+      213: -494311641944221799
+    second: WalkPistol_7
+  - first:
+      213: -4035544764011427031
+    second: WalkPistol_8
+  - first:
+      213: 1280492537199266715
+    second: WalkPistol_9
+  - first:
+      213: -4815806772825105713
+    second: WalkPistol_10
+  - first:
+      213: 3845275830137976630
+    second: WalkPistol_11
+  - first:
+      213: 2300961411114764123
+    second: WalkPistol_12
+  - first:
+      213: 8742736973441003970
+    second: WalkPistol_13
+  - first:
+      213: -5371871505606745482
+    second: WalkPistol_14
+  - first:
+      213: 7493953977411518936
+    second: WalkPistol_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkPistol_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 364
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60be9aaddd95200800000000000000
+      internalID: 169410392226465476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 328
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e632793bb77c62220800000000000000
+      internalID: 2460873580512486254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_2
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 283
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db974f96d0f9f7160800000000000000
+      internalID: 7025508823682283965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_3
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 259
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e8eb8fc447c700800000000000000
+      internalID: 560492336827132205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_4
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 0
+        width: 268
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0f72a32c23ed6f0800000000000000
+      internalID: -658032685768773427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_5
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 10
+        width: 321
+        height: 434
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef153a40c5e71ca0800000000000000
+      internalID: -6046111360680124438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_6
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 35
+        width: 337
+        height: 417
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a1f3888a2a04610800000000000000
+      internalID: 1603460312067938952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_7
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 80
+        width: 374
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997139d3e2ad329f0800000000000000
+      internalID: -494311641944221799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_8
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 36
+        width: 357
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b49e91b6ddef7c0800000000000000
+      internalID: -4035544764011427031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_9
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 0
+        width: 346
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0d41ad2935c110800000000000000
+      internalID: 1280492537199266715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_10
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 0
+        width: 331
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad6de5141da2db0800000000000000
+      internalID: -4815806772825105713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_11
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 307
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637f4ce8ef92d5530800000000000000
+      internalID: 3845275830137976630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_12
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 0
+        width: 254
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57806f5638aeef10800000000000000
+      internalID: 2300961411114764123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_13
+      rect:
+        serializedVersion: 2
+        x: 6985
+        y: 0
+        width: 320
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ff92d4f0745970800000000000000
+      internalID: 8742736973441003970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_14
+      rect:
+        serializedVersion: 2
+        x: 7512
+        y: 10
+        width: 332
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6726449b3574375b0800000000000000
+      internalID: -5371871505606745482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkPistol_15
+      rect:
+        serializedVersion: 2
+        x: 8038
+        y: 31
+        width: 384
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d14db2107fdff760800000000000000
+      internalID: 7493953977411518936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c8903c033866f340bd02a67ea3318a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

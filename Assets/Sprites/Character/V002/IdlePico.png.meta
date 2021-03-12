@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 1bef8c4323510174084ff5208176eb29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6233212536467991305
+    second: idlePico_0
+  - first:
+      213: -7887990618705052944
+    second: idlePico_1
+  - first:
+      213: -2648090281650388775
+    second: idlePico_2
+  - first:
+      213: 5526159327812573379
+    second: idlePico_3
+  - first:
+      213: 3013505880120075436
+    second: idlePico_4
+  - first:
+      213: 878281762459872570
+    second: idlePico_5
+  - first:
+      213: 939511292617225065
+    second: idlePico_6
+  - first:
+      213: -551213310553484668
+    second: idlePico_7
+  - first:
+      213: -3113857385224783756
+    second: idlePico_8
+  - first:
+      213: -4826947034827418015
+    second: idlePico_9
+  - first:
+      213: -331572067341998210
+    second: idlePico_10
+  - first:
+      213: -421128292396546972
+    second: IdlePico_0
+  - first:
+      213: 8887756298725961693
+    second: IdlePico_1
+  - first:
+      213: -5192590215147692131
+    second: IdlePico_2
+  - first:
+      213: 4640734285262124881
+    second: IdlePico_3
+  - first:
+      213: 4761758807260093470
+    second: IdlePico_4
+  - first:
+      213: 8137579892324806005
+    second: IdlePico_5
+  - first:
+      213: -5700755677718340287
+    second: IdlePico_6
+  - first:
+      213: -6120958848242359845
+    second: IdlePico_7
+  - first:
+      213: 5112339281279345651
+    second: IdlePico_8
+  - first:
+      213: 3228825504360416825
+    second: IdlePico_9
+  - first:
+      213: 7686837714524812396
+    second: IdlePico_10
+  - first:
+      213: -4901003950195282783
+    second: IdlePico_0
+  - first:
+      213: 7116891225308833080
+    second: IdlePico_1
+  - first:
+      213: -7655367267840435702
+    second: IdlePico_2
+  - first:
+      213: 2904524071024434727
+    second: IdlePico_3
+  - first:
+      213: 8941921399401070698
+    second: IdlePico_4
+  - first:
+      213: -6334767540615478774
+    second: IdlePico_5
+  - first:
+      213: -270515867021924069
+    second: IdlePico_6
+  - first:
+      213: -2633963447938273310
+    second: IdlePico_7
+  - first:
+      213: 5426123373181836157
+    second: IdlePico_8
+  - first:
+      213: 4093591121667012659
+    second: IdlePico_9
+  - first:
+      213: -1659267949571751219
+    second: IdlePico_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdlePico_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 259
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace2d9bfd22cfbb0800000000000000
+      internalID: -4901003950195282783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 261
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835a0adccd644c260800000000000000
+      internalID: 7116891225308833080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_2
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 261
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad73f970ca2c590800000000000000
+      internalID: -7655367267840435702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_3
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 0
+        width: 261
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9bf6f041fe4820800000000000000
+      internalID: 2904524071024434727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 260
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c3cce226181c70800000000000000
+      internalID: 8941921399401070698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_5
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 0
+        width: 260
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0280fe1c726618a0800000000000000
+      internalID: -6334767540615478774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_6
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 0
+        width: 260
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b192d00904fee3cf0800000000000000
+      internalID: -270515867021924069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_7
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 0
+        width: 260
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa64e0338427bd0800000000000000
+      internalID: -2633963447938273310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_8
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 0
+        width: 260
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b92f585767d4b40800000000000000
+      internalID: 5426123373181836157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_9
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 0
+        width: 260
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b7a6bf6b5fc830800000000000000
+      internalID: 4093591121667012659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePico_10
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 0
+        width: 259
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c59e479819f8e0800000000000000
+      internalID: -1659267949571751219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2d739d3586c3d344bab56ccedd1b6c41
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

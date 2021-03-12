@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 5be9aaec74549c541bb831a7431658db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6686249121639228651
+    second: ChopSprite_0
+  - first:
+      213: 7593157921685612416
+    second: ChopSprite_1
+  - first:
+      213: 8906058243022165156
+    second: ChopSprite_2
+  - first:
+      213: 9102943620169379099
+    second: ChopSprite_3
+  - first:
+      213: 1025386444416632296
+    second: ChopSprite_4
+  - first:
+      213: 9203416717802391015
+    second: ChopSprite_5
+  - first:
+      213: 85587294721237388
+    second: ChopSprite_6
+  - first:
+      213: -5193384111910123397
+    second: ChopSprite_7
+  - first:
+      213: 3097729275312129338
+    second: ChopSprite_8
+  - first:
+      213: -5200908009950742884
+    second: ChopSprite_0
+  - first:
+      213: 6696024985700894271
+    second: ChopSprite_1
+  - first:
+      213: -5284839512421667074
+    second: ChopSprite_2
+  - first:
+      213: -3274732185797394625
+    second: ChopSprite_3
+  - first:
+      213: 8543499292817498342
+    second: ChopSprite_4
+  - first:
+      213: -7845468085648653417
+    second: ChopSprite_5
+  - first:
+      213: 6282228934777227417
+    second: ChopSprite_6
+  - first:
+      213: 324953956244975325
+    second: ChopSprite_7
+  - first:
+      213: 8631531190668736895
+    second: ChopSprite_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChopSprite_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 372
+        height: 732
+      alignment: 9
+      pivot: {x: 0.83869344, y: 0.00070052885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96f66578b9a2d7b0800000000000000
+      internalID: -5200908009950742884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_1
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1
+        width: 397
+        height: 390
+      alignment: 9
+      pivot: {x: 0.85472405, y: 0.0067384127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3687d75f3f0dec50800000000000000
+      internalID: 6696024985700894271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_2
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1
+        width: 510
+        height: 731
+      alignment: 9
+      pivot: {x: 0.8628997, y: 0.003967778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6827b67a78a6b0800000000000000
+      internalID: -5284839512421667074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_3
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 0
+        width: 225
+        height: 732
+      alignment: 9
+      pivot: {x: 0.28359374, y: 0.0025736236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff1036d60dd82d0800000000000000
+      internalID: -3274732185797394625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_4
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 0
+        width: 372
+        height: 732
+      alignment: 9
+      pivot: {x: 0.19001164, y: 0.0017138957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02037675b909670800000000000000
+      internalID: 8543499292817498342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_5
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 0
+        width: 277
+        height: 732
+      alignment: 9
+      pivot: {x: 0.2578266, y: 0.0011550544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938f3ad75c4f1390800000000000000
+      internalID: -7845468085648653417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_6
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 0
+        width: 392
+        height: 732
+      alignment: 9
+      pivot: {x: 0.79355544, y: 0.0016969945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c3177ee5fe2750800000000000000
+      internalID: 6282228934777227417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_7
+      rect:
+        serializedVersion: 2
+        x: 5717
+        y: 0
+        width: 465
+        height: 732
+      alignment: 9
+      pivot: {x: 0.8678081, y: 0.00083401514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee65ac6e7728400800000000000000
+      internalID: 324953956244975325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChopSprite_8
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 0
+        width: 385
+        height: 732
+      alignment: 9
+      pivot: {x: 0.8397258, y: 0.0010381427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b387d2eb59c770800000000000000
+      internalID: 8631531190668736895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb1bc68bb65e64741855e88680d34702
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

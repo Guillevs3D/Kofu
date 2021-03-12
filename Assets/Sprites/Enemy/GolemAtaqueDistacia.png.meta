@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 7386490b0abfe864394184a71c7c7ef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6104853817343600714
+    second: GolemAtaqueDistacia_0
+  - first:
+      213: 4821075304844223929
+    second: GolemAtaqueDistacia_1
+  - first:
+      213: -3230009672062519756
+    second: GolemAtaqueDistacia_2
+  - first:
+      213: 2847889023011126428
+    second: GolemAtaqueDistacia_3
+  - first:
+      213: -9193413629713352574
+    second: GolemAtaqueDistacia_4
+  - first:
+      213: -3000248390389813883
+    second: GolemAtaqueDistacia_5
+  - first:
+      213: -564151640773865969
+    second: GolemAtaqueDistacia_6
+  - first:
+      213: -7156236352415131587
+    second: GolemAtaqueDistacia_7
+  - first:
+      213: -733149388618951630
+    second: GolemAtaqueDistacia_8
+  - first:
+      213: -3399656297232860315
+    second: GolemAtaqueDistacia_9
+  - first:
+      213: 4883231360654697963
+    second: GolemAtaqueDistacia_10
+  - first:
+      213: 2937094633173283612
+    second: GolemAtaqueDistacia_11
+  - first:
+      213: -1296903274703615821
+    second: GolemAtaqueDistacia_12
+  - first:
+      213: 4257812295883786873
+    second: GolemAtaqueDistacia_13
+  - first:
+      213: 2147505103711514583
+    second: GolemAtaqueDistacia_14
+  - first:
+      213: 4259787090184195838
+    second: GolemAtaqueDistacia_15
+  - first:
+      213: 187079656894665303
+    second: GolemAtaqueDistacia_16
+  - first:
+      213: 5355130076137319748
+    second: GolemAtaqueDistacia_17
+  - first:
+      213: 3491104154165908337
+    second: GolemAtaqueDistacia_18
+  - first:
+      213: 2930282799946605652
+    second: GolemAtaqueDistacia_19
+  - first:
+      213: 7506673296197203477
+    second: GolemAtaqueDistacia_20
+  - first:
+      213: 2105013731653123477
+    second: GolemAtaqueDistacia_21
+  - first:
+      213: -4723879005457400032
+    second: GolemAtaqueDistacia_22
+  - first:
+      213: -161394013142787064
+    second: GolemAtaqueDistacia_23
+  - first:
+      213: -7506766599230180301
+    second: GolemAtaqueDistacia_24
+  - first:
+      213: -9103935975870187753
+    second: GolemAtaqueDistacia_0
+  - first:
+      213: -6679319605358104570
+    second: GolemAtaqueDistacia_1
+  - first:
+      213: -4397028020592427383
+    second: GolemAtaqueDistacia_2
+  - first:
+      213: 4618569462638937105
+    second: GolemAtaqueDistacia_3
+  - first:
+      213: 7399824206823031484
+    second: GolemAtaqueDistacia_4
+  - first:
+      213: 3167688520134976703
+    second: GolemAtaqueDistacia_5
+  - first:
+      213: -6958387131589586941
+    second: GolemAtaqueDistacia_6
+  - first:
+      213: 2791277014800188860
+    second: GolemAtaqueDistacia_7
+  - first:
+      213: 5679437007818227996
+    second: GolemAtaqueDistacia_8
+  - first:
+      213: -4040628073292487399
+    second: GolemAtaqueDistacia_9
+  - first:
+      213: -7052861252777693031
+    second: GolemAtaqueDistacia_10
+  - first:
+      213: -2411611040637960256
+    second: GolemAtaqueDistacia_11
+  - first:
+      213: -8195470815561352039
+    second: GolemAtaqueDistacia_12
+  - first:
+      213: 7160973890182096785
+    second: GolemAtaqueDistacia_13
+  - first:
+      213: -2620166915915102447
+    second: GolemAtaqueDistacia_14
+  - first:
+      213: 8740966861551177746
+    second: GolemAtaqueDistacia_15
+  - first:
+      213: 979828414119894975
+    second: GolemAtaqueDistacia_16
+  - first:
+      213: -1129051900703547153
+    second: GolemAtaqueDistacia_17
+  - first:
+      213: 668675512251473935
+    second: GolemAtaqueDistacia_18
+  - first:
+      213: -3832492121405677598
+    second: GolemAtaqueDistacia_19
+  - first:
+      213: 8172497956883192517
+    second: GolemAtaqueDistacia_20
+  - first:
+      213: 6357196594487544516
+    second: GolemAtaqueDistacia_21
+  - first:
+      213: 4480196454544354267
+    second: GolemAtaqueDistacia_22
+  - first:
+      213: 900714557256437899
+    second: GolemAtaqueDistacia_23
+  - first:
+      213: -1560945813485661096
+    second: GolemAtaqueDistacia_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 924
+        width: 355
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717bb54f67258a180800000000000000
+      internalID: -9103935975870187753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 921
+        width: 395
+        height: 795
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f35d153a4e43a0800000000000000
+      internalID: -6679319605358104570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_2
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 922
+        width: 428
+        height: 794
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e362dcf4e9af2c0800000000000000
+      internalID: -4397028020592427383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_3
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 922
+        width: 450
+        height: 794
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1148f0fb474781040800000000000000
+      internalID: 4618569462638937105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_4
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 922
+        width: 513
+        height: 794
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2060009e471b660800000000000000
+      internalID: 7399824206823031484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_5
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 922
+        width: 437
+        height: 665
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb46ab90de3e5fb20800000000000000
+      internalID: 3167688520134976703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_6
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 922
+        width: 486
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30014fb55c7de6f90800000000000000
+      internalID: -6958387131589586941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_7
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 922
+        width: 424
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c0e8f7ab9cb620800000000000000
+      internalID: 2791277014800188860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_8
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 922
+        width: 575
+        height: 794
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11863f1ed961de40800000000000000
+      internalID: 5679437007818227996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_9
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 922
+        width: 574
+        height: 794
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152eedec2ecce7c0800000000000000
+      internalID: -4040628073292487399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_10
+      rect:
+        serializedVersion: 2
+        x: 7450
+        y: 922
+        width: 670
+        height: 794
+      alignment: 9
+      pivot: {x: 0.89, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b11aee043f1e90800000000000000
+      internalID: -7052861252777693031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_11
+      rect:
+        serializedVersion: 2
+        x: 8240
+        y: 922
+        width: 677
+        height: 794
+      alignment: 9
+      pivot: {x: 0.89, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3d5a298c388ed0800000000000000
+      internalID: -2411611040637960256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 519
+        height: 649
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c7267f6b6d34e80800000000000000
+      internalID: -8195470815561352039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 524
+        height: 647
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197a62a00d3e06360800000000000000
+      internalID: 7160973890182096785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_14
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 0
+        width: 527
+        height: 645
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11746ac721c43abd0800000000000000
+      internalID: -2620166915915102447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_15
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 0
+        width: 529
+        height: 643
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21018388c072e4970800000000000000
+      internalID: 8740966861551177746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_16
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 0
+        width: 533
+        height: 640
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf537450cc099d00800000000000000
+      internalID: 979828414119894975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_17
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 0
+        width: 536
+        height: 638
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e59d374dc450f0800000000000000
+      internalID: -1129051900703547153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_18
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 0
+        width: 585
+        height: 636
+      alignment: 9
+      pivot: {x: 0.78, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0060c9e5dc974900800000000000000
+      internalID: 668675512251473935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_19
+      rect:
+        serializedVersion: 2
+        x: 5494
+        y: 0
+        width: 542
+        height: 633
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef912398b040dac0800000000000000
+      internalID: -3832492121405677598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_20
+      rect:
+        serializedVersion: 2
+        x: 6493
+        y: 0
+        width: 332
+        height: 711
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad0af879b8a6170800000000000000
+      internalID: 8172497956883192517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_21
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 0
+        width: 287
+        height: 623
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac0cdee9c493850800000000000000
+      internalID: 6357196594487544516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_22
+      rect:
+        serializedVersion: 2
+        x: 7676
+        y: 501
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdba41530fadc2e30800000000000000
+      internalID: 4480196454544354267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_23
+      rect:
+        serializedVersion: 2
+        x: 8001
+        y: 0
+        width: 494
+        height: 611
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b801b4d1e1bff7c00800000000000000
+      internalID: 900714557256437899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemAtaqueDistacia_24
+      rect:
+        serializedVersion: 2
+        x: 8517
+        y: 455
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854dd898d08665ae0800000000000000
+      internalID: -1560945813485661096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ccf95d709e5d5f4babf3459d105e126
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
